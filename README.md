@@ -32,13 +32,14 @@ The language boasts the easiest syntax of any programming language currently in 
 places a greater emphasis on natural language, and is, therefore, the most approachable.<br>
 
 # What is the major difference between python 3.x and 2.x?with example.<br>
-Python 2:<br> 
-Python 2 has more complicated syntax than Python 3.<br>                                         
+# Python 2:<br> 
+Python 2 has more complicated syntax than Python 3.<br>                               
 Python 2 stores need to define Unicode string value with “u.”<br> 
 Python 2 value of the global variable will be changed while using it inside for-loop.<br> 
 # for example 2:<br>
 print"Hello,world"<br> 
-Python 3:<br>
+
+# Python 3:<br>
 Python 3 has an easier syntax compared to Python 2.<br>
 Python 3 default storing of strings is Unicode.<br>
 Python 3 value of variables never changes.<br>
