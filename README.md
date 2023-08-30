@@ -37,6 +37,7 @@ for example:<br>
 <pre><br>                                                                                    
   print"Hello,world"<br>                                                                         
 </pre<br>
+<br>
 Python 3:<br>
 Python 3 has an easier syntax compared to Python 2.<br>
 Python 3 default storing of strings is Unicode.<br>
