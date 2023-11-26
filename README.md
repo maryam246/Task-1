@@ -19,7 +19,7 @@ Functions.<br>
 
 # Python the new-generation language:<br>
 Python – The new generation Language" suggests that Python is perceived as a modern, versatile, and influential programming language due to its simple syntax, broad applications, rapid development capabilities, active community, dominance in data science and AI/ML, and support for various programming paradigms.
-Based on predictions, it is estimated that the Python language will continue to be used for the next 20 years.so, we can say that its new generation language.
+Based on predictions, it is predicted that the Python language will continue to be used for the next 20 years.so, we can say that its new generation language.
 
 # what is python 3 and why do we programming?<br>
 Python 3 is a high-level language that has a large standard library and many third-party libraries available, making it a versatile language that can be used for a wide variety of applications.<br>
