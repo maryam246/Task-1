@@ -12,7 +12,7 @@ Variables: Example, x = 5 creates a variable called x and assigns the value 5 to
 # Data types: 
 Data types, including integers, floats, strings, booleans, lists, tuples, and dictionaries.<br>
 # Operators:
-operators (+, -, *, /), comparison operators (>, <, ==, !=), and logical operators (and, or, not).<br>
+operators (+, -, *, /), Arithmetic operators (>, <, ==, !=) comparison, and logical operators (and, or, not).<br>
 # Control flow statements:
 Several control flow statements, including if-else statements, for loops, and while loops
 Functions.<br>
